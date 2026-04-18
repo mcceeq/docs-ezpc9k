@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcceeq.github.io/docs-ezpc9k/sitemap.xml
